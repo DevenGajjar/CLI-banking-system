@@ -19,7 +19,7 @@ This was my **first Java project**, built to learn object-oriented programming a
 ## 💻 Tech Stack
 
 - **Language:** Java
-- **IDE:** IntelliJ IDEA
+- **IDE:** IntelliJ IDEA (to get the code go to src/main.java)
 - **CLI:** Terminal-based interaction
 
 ---
